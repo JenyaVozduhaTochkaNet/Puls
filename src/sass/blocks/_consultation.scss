@@ -1,0 +1,19 @@
+.consultation {
+    height: 680px;
+    background: url('../../img/Consultation.png') center (center/cover) no-repeat;
+    padding: 100px 0  108px 0;
+    &__title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    text-transform: uppercase;
+    text-align: left;
+    color: #FFFFFF;
+    }
+    &__subtitle {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        color: #FFFFFF;
+    }
+}
