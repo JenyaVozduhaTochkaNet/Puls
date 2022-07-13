@@ -5,12 +5,22 @@
 .container {
     max-width: 950px;
     margin: 0 auto;
+    
+}
+.tns-nav {
+    display: none;
 }
 
+@import 'blocks/modals';
 @import 'blocks/promo';
 @import 'blocks/header';
 @import 'blocks/buttons';
 @import 'blocks/benefits';
 @import 'blocks/forms';
 @import 'blocks/consultation';
+@import 'blocks/slider';
+@import 'blocks/tabs';
+@import 'blocks/_cards';
+@import 'blocks/response';
+@import 'blocks/footer';
 @import 'variables/media';
